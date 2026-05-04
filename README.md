@@ -3,6 +3,12 @@
 Interactive 2-page Power BI dashboard analyzing $484K in retail 
 sales across categories, regions, and time periods.
 
+## Dashboard Preview
+
+![Sales Dashboard Page 1](dashboard_page1.png)
+
+![Sales Dashboard Page 2](dashboard_page2.png)
+
 ## Business Problem
 Sales managers need a single view to monitor revenue trends, 
 identify top-performing regions, and spot underperforming periods.
